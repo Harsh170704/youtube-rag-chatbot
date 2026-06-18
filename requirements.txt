@@ -1,23 +1,20 @@
 streamlit
 
-langchain==0.3.27
-langchain-core==0.3.75
-langchain-text-splitters==0.3.11
+langchain
+langchain-core
+langchain-text-splitters
 
-langchain-huggingface==0.3.1
-langchain-chroma==0.2.6
+langchain-huggingface
+langchain-chroma
 
-chromadb==1.0.20
+chromadb
 
-huggingface-hub==0.34.4
-transformers==4.56.1
-sentence-transformers==5.1.0
+huggingface-hub
+transformers
+sentence-transformers
 
-youtube-transcript-api==1.2.2
+youtube-transcript-api
 
-python-dotenv==1.1.1
-
-numpy==2.3.2
-scikit-learn==1.7.1
-
-protobuf==5.29.5
+python-dotenv
+numpy
+scikit-learn
